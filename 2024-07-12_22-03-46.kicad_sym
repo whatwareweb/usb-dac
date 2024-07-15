@@ -147,24 +147,6 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 0 -27.94 0)
-				(length 7.62)
-				(name "FR"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at 0 -30.48 0)
 				(length 7.62)
@@ -669,17 +651,19 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 0 -25.4 0)
+		)
+		(symbol "PCM2912APJTR_1_1"
+			(pin passive line
+				(at 0 -27.94 0)
 				(length 7.62)
-				(name "FL"
+				(name "FR"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "9"
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -687,8 +671,6 @@
 					)
 				)
 			)
-		)
-		(symbol "PCM2912APJTR_1_1"
 			(pin input line
 				(at 49.53 -27.94 180)
 				(length 7.62)
@@ -700,6 +682,24 @@
 					)
 				)
 				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -25.4 0)
+				(length 7.62)
+				(name "FL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
