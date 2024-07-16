@@ -1,3 +1,3 @@
 # usb-dac
 
-USB DAC based on TI IC
+USB DAC based on TI PCM2912A IC
