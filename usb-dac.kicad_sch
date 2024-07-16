@@ -87,54 +87,6 @@
 				)
 			)
 			(symbol "PCM2912APJTR_0_1"
-				(polyline
-					(pts
-						(xy 7.62 -55.88) (xy 41.91 -55.88)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 7.62 -55.88)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 41.91 -55.88) (xy 41.91 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 41.91 5.08) (xy 7.62 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(pin power_in line
 					(at 0 0 0)
 					(length 7.62)
@@ -659,6 +611,17 @@
 				)
 			)
 			(symbol "PCM2912APJTR_1_1"
+				(rectangle
+					(start 7.62 5.08)
+					(end 41.91 -55.88)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(pin passive line
 					(at 0 -27.94 0)
 					(length 7.62)
@@ -2618,6 +2581,12 @@
 		(uuid "4618b4a0-0374-4cbf-9afe-452093c62e81")
 	)
 	(junction
+		(at 269.24 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "623b6fc4-d2a1-4d58-9ebd-9eda4cd4ad4c")
+	)
+	(junction
 		(at 104.14 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2676,12 +2645,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aeb02a36-b8fa-485c-8cc7-dc500f4dd48c")
-	)
-	(junction
-		(at 273.05 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b40660c6-07c8-4f1c-b62e-ccabda23b6be")
 	)
 	(junction
 		(at 36.83 87.63)
@@ -2813,7 +2776,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 80.01) (xy 273.05 80.01)
+			(xy 257.81 80.01) (xy 269.24 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3030,6 +2993,16 @@
 			(type default)
 		)
 		(uuid "5ab58c48-c4d9-4649-b31d-91d6fa89af46")
+	)
+	(wire
+		(pts
+			(xy 269.24 80.01) (xy 273.05 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ed5770f-b85a-4826-a050-6ce1169ad421")
 	)
 	(wire
 		(pts
@@ -8137,7 +8110,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 273.05 80.01 0)
+		(at 269.24 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8146,7 +8119,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4ba752d-1693-4576-ada7-5742731dc5a7")
 		(property "Reference" "#FLG010"
-			(at 273.05 78.105 0)
+			(at 269.24 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8155,7 +8128,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 273.05 74.93 0)
+			(at 269.24 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8163,7 +8136,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 273.05 80.01 0)
+			(at 269.24 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8172,7 +8145,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 273.05 80.01 0)
+			(at 269.24 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8181,7 +8154,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 273.05 80.01 0)
+			(at 269.24 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)

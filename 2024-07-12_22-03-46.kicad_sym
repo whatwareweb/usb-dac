@@ -81,54 +81,6 @@
 			)
 		)
 		(symbol "PCM2912APJTR_0_1"
-			(polyline
-				(pts
-					(xy 7.62 -55.88) (xy 41.91 -55.88)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 5.08) (xy 7.62 -55.88)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 41.91 -55.88) (xy 41.91 5.08)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 41.91 5.08) (xy 7.62 5.08)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin power_in line
 				(at 0 0 0)
 				(length 7.62)
@@ -653,6 +605,17 @@
 			)
 		)
 		(symbol "PCM2912APJTR_1_1"
+			(rectangle
+				(start 7.62 5.08)
+				(end 41.91 -55.88)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(pin passive line
 				(at 0 -27.94 0)
 				(length 7.62)
