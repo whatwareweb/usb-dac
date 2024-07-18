@@ -4131,7 +4131,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "CF14JT30R0"
+			(at 48.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 48.26 38.1 0)
 			(effects
 				(font
@@ -4342,6 +4351,15 @@
 			)
 		)
 		(property "Mfr. #" "FG28X7R1E105KRT00 "
+			(at 53.34 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "TDK"
 			(at 53.34 54.61 0)
 			(effects
 				(font
@@ -4753,6 +4771,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." ""
+			(at 31.75 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba888d34-651c-46da-bc3c-02cd09318e26")
 		)
@@ -5028,6 +5055,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." "CUI Devices "
+			(at 271.78 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "T"
 			(uuid "4f38d58a-e3ff-442d-aa6a-efc56d6dd62d")
 		)
@@ -5101,7 +5137,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "CFM14JT3K30"
+			(at 247.65 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 247.65 113.03 0)
 			(effects
 				(font
@@ -5186,6 +5231,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." "TDK"
+			(at 236.22 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ffa69b3-73da-4a52-8540-78c84d984930")
 		)
@@ -5256,7 +5310,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "CFM14JT3K30"
+			(at 228.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 228.6 113.03 0)
 			(effects
 				(font
@@ -5400,7 +5463,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "ATS060"
+			(at 36.83 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "CTS Electronic Components"
 			(at 36.83 91.44 0)
 			(effects
 				(font
@@ -5673,7 +5745,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "CF18JT5K10"
+			(at 48.26 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 48.26 30.48 0)
 			(effects
 				(font
@@ -5815,6 +5896,15 @@
 			)
 		)
 		(property "Mfr. #" ""
+			(at 31.75 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." ""
 			(at 31.75 129.54 0)
 			(effects
 				(font
@@ -6295,6 +6385,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." "TDK"
+			(at 273.05 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b2f0824e-64ae-4cc3-a182-480729007076")
 		)
@@ -6496,7 +6595,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "CFM14JT3K30"
+			(at 247.65 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 247.65 132.08 0)
 			(effects
 				(font
@@ -6572,7 +6680,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" " CFR-12JB-52-1K5 "
+			(at 48.26 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "YAGEO"
 			(at 48.26 49.53 0)
 			(effects
 				(font
@@ -6745,7 +6862,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "30pF"
 			(at 52.0763 83.82 90)
 			(effects
 				(font
@@ -6780,7 +6897,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "K300J10C0GF5UH5"
+			(at 52.07 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." " Vishay"
 			(at 52.07 87.63 0)
 			(effects
 				(font
@@ -6859,7 +6985,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "RNF18FTD1M00"
+			(at 26.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 26.67 91.44 0)
 			(effects
 				(font
@@ -6936,6 +7071,15 @@
 			)
 		)
 		(property "Mfr. #" " AICC-02-1R0M-T "
+			(at 101.6 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "ABRACON"
 			(at 101.6 74.93 0)
 			(effects
 				(font
@@ -7042,7 +7186,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "30pF"
 			(at 52.07 101.6 90)
 			(effects
 				(font
@@ -7077,7 +7221,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "K300J10C0GF5UH5"
+			(at 52.07 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." " Vishay"
 			(at 52.07 95.25 0)
 			(effects
 				(font
@@ -7165,6 +7318,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." "TDK"
+			(at 104.14 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4956329-d8c6-4d76-8dc1-6c6cb4dc4a8d")
 		)
@@ -7214,7 +7376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" ""
 			(at 33.02 40.64 0)
 			(effects
 				(font
@@ -7233,6 +7395,15 @@
 			)
 		)
 		(property "Mfr. #" "USB4085"
+			(at 29.21 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "GCT"
 			(at 29.21 40.64 0)
 			(effects
 				(font
@@ -7348,6 +7519,15 @@
 			)
 		)
 		(property "Mfr. #" "FG28X7R1E105KRT00 "
+			(at 44.45 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "TDK"
 			(at 44.45 179.07 0)
 			(effects
 				(font
@@ -7489,6 +7669,15 @@
 			)
 		)
 		(property "Mfr. #" ""
+			(at 44.45 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." ""
 			(at 44.45 154.94 0)
 			(effects
 				(font
@@ -7640,6 +7829,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." "Rubycon"
+			(at 240.03 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6feead75-e58d-48e6-867a-9e3e346b2472")
 		)
@@ -7707,7 +7905,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "CF14JT30R0"
+			(at 48.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 48.26 43.18 0)
 			(effects
 				(font
@@ -7990,6 +8197,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." "Texas Instruments"
+			(at 132.08 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "20"
 			(uuid "f4a67b5c-d1eb-4800-938a-ab2d9091595f")
 		)
@@ -8216,7 +8432,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "CFM14JT3K30"
+			(at 228.6 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "SEI Stackpole"
 			(at 228.6 132.08 0)
 			(effects
 				(font
@@ -8424,6 +8649,15 @@
 			)
 		)
 		(property "Mfr. #" "FG28X7R1E105KRT00 "
+			(at 236.22 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "TDK"
 			(at 236.22 156.21 0)
 			(effects
 				(font
@@ -8706,6 +8940,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr." ""
+			(at 44.45 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5933473a-6e1c-4767-a378-5d78ddde8334")
 		)
@@ -8906,6 +9149,15 @@
 			)
 		)
 		(property "Mfr. #" "6.3ZLH820MEFC8X11.5"
+			(at 240.03 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "Rubycon"
 			(at 240.03 128.27 0)
 			(effects
 				(font
