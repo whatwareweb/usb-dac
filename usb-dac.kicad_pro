@@ -539,6 +539,12 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mfr. #",
+          "name": "Mfr. #",
+          "show": false
         }
       ],
       "filter_string": "",
