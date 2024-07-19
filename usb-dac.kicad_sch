@@ -4735,7 +4735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 31.75 119.38 0)
 			(effects
 				(font
@@ -4762,7 +4762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "XR501101K040HAND5P"
 			(at 31.75 119.38 0)
 			(effects
 				(font
@@ -4771,7 +4771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "Walsin"
 			(at 31.75 119.38 0)
 			(effects
 				(font
@@ -5868,7 +5868,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 31.75 129.54 0)
 			(effects
 				(font
@@ -5895,7 +5895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "XR501101K040HAND5P"
 			(at 31.75 129.54 0)
 			(effects
 				(font
@@ -5904,7 +5904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "Walsin"
 			(at 31.75 129.54 0)
 			(effects
 				(font
@@ -6870,7 +6870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 52.07 87.63 0)
 			(effects
 				(font
@@ -7194,7 +7194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 52.07 95.25 0)
 			(effects
 				(font
@@ -7367,7 +7367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 33.02 40.64 0)
 			(effects
 				(font
@@ -7641,7 +7641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 44.45 154.94 0)
 			(effects
 				(font
@@ -7668,7 +7668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "FA24X7R1E335KRU06"
 			(at 44.45 154.94 0)
 			(effects
 				(font
@@ -7677,7 +7677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "TDK"
 			(at 44.45 154.94 0)
 			(effects
 				(font
@@ -8904,7 +8904,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 44.45 167.64 0)
 			(effects
 				(font
@@ -8931,7 +8931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" ""
+		(property "Mfr. #" "K104K10X7RF5UH5"
 			(at 44.45 167.64 0)
 			(effects
 				(font
@@ -8940,7 +8940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." ""
+		(property "Mfr." "Vishay"
 			(at 44.45 167.64 0)
 			(effects
 				(font
