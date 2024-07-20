@@ -8179,7 +8179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DAC IC"
 			(at 132.08 76.2 0)
 			(effects
 				(font
