@@ -11716,6 +11716,18 @@
 		(layer "Edge.Cuts")
 		(uuid "ee5f5c45-0587-46f4-9cb8-31673a216906")
 	)
+	(gr_text "WhatWare\nUSB DAC"
+		(at 173 82.5 0)
+		(layer "F.SilkS")
+		(uuid "39fabfcb-25a9-4cb7-8330-2eecdc6bbfeb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
 	(segment
 		(start 129.4159 89.2)
 		(end 129.4159 86.2295)
