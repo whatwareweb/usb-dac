@@ -4131,7 +4131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "CF14JT30R0"
+		(property "Mfr. #" "CFR-12JB-52-30R"
 			(at 48.26 38.1 0)
 			(effects
 				(font
@@ -4140,7 +4140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "SEI Stackpole"
+		(property "Mfr." "YAGEO"
 			(at 48.26 38.1 0)
 			(effects
 				(font
@@ -7394,7 +7394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "USB4085"
+		(property "Mfr. #" "USB4105"
 			(at 29.21 40.64 0)
 			(effects
 				(font
@@ -7905,7 +7905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "CF14JT30R0"
+		(property "Mfr. #" "CFR-12JB-52-30R"
 			(at 48.26 43.18 0)
 			(effects
 				(font
@@ -7914,7 +7914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr." "SEI Stackpole"
+		(property "Mfr." "YAGEO"
 			(at 48.26 43.18 0)
 			(effects
 				(font
