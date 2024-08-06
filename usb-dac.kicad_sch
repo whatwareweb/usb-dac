@@ -6862,7 +6862,7 @@
 				)
 			)
 		)
-		(property "Value" "30pF"
+		(property "Value" "27pF"
 			(at 52.0763 83.82 90)
 			(effects
 				(font
@@ -6897,7 +6897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "K300J10C0GF5UH5"
+		(property "Mfr. #" "K270J15C0GF5TH5"
 			(at 52.07 87.63 0)
 			(effects
 				(font
@@ -7186,7 +7186,7 @@
 				)
 			)
 		)
-		(property "Value" "30pF"
+		(property "Value" "27pF"
 			(at 52.07 101.6 90)
 			(effects
 				(font
@@ -7221,7 +7221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. #" "K300J10C0GF5UH5"
+		(property "Mfr. #" "K270J15C0GF5TH5"
 			(at 52.07 95.25 0)
 			(effects
 				(font
