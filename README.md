@@ -29,3 +29,6 @@ This board has been designed with easy assembly in mind, there are only 2 SMD pa
 The parts in the BOM can all be purchased at Mouser electronics (DigiKey probably has them too, i didn't check)
 
 I just went with the cheapest option of the rated component value with a minimum voltage rating of 5v, so if you need to get components from some other supplier you can do that as well and it will probably work, just make sure to double-check the lead spacing for the capacitors and inductors and stuff
+
+## bom
+To export the BOM, open the schematic in Kicad, and click the BOM icon in the toolbar, from there you can copy/paste or export
