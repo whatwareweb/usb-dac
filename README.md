@@ -19,7 +19,7 @@ C9 and C10 are the output capacitors, the Rubycon model listed in the BOM does v
 ## assembly
 Check the assembly directory for assembly pictures
 
-This board design is tested and working, but if you would like any help you can open a github issue and i'll try my best (no i will most likely not give you one for free, sorry)
+This board design is tested and working, but if you would like any help you can open a github issue and I'll try my best (no i will most likely not give you one for free, sorry)
 
 During assembly it is very helpful to open the board view in KiCad to see the component values and the BOM
 
